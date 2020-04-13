@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "titulo #1",
+      "content": "content #1"
+    },
+    {
+      "title": "Pot 6",
+      "content": "6",
+      "id": 6
+    },
+    {
+      "title": "Pat 7 ede",
+      "content": "Post 7",
+      "id": 7
+    }
+  ]
+}
